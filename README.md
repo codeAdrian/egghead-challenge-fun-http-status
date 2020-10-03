@@ -16,7 +16,7 @@ If you type in a status code 100, you get link to this image from the API
 
 ![100 Cat](https://http.cat/100)
 
-## Add a status code cat :dog:
+## Add a status code dog :dog:
 
 `http-status:dogs`
 
