@@ -1,0 +1,63 @@
+{
+  "name": "http-status-fun-snippets",
+  "displayName": "HTTP status fun snippets",
+  "description": "Tired of same old boring HTTP status codes that confuse you and look bland? Even HTTP status codes are better with a cat or a dog!",
+  "version": "1.0.0",
+  "author": {
+    "name": "Adrian Bece"
+  },
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "php",
+        "path": "./http-status-fun-snippets.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./http-status-fun-snippets.json"
+      },
+      {
+        "language": "html",
+        "path": "./http-status-fun-snippets.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./http-status-fun-snippets.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./http-status-fun-snippets.json"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./http-status-fun-snippets.json"
+      },
+      {
+        "language": "plaintext",
+        "path": "./http-status-fun-snippets.json"
+      },
+      {
+        "language": "json",
+        "path": "./http-status-fun-snippets.json"
+      },
+      {
+        "language": "markdown",
+        "path": "./http-status-fun-snippets.json"
+      },
+      {
+        "language": "handlebars",
+        "path": "./http-status-fun-snippets.json"
+      },
+      {
+        "language": "xml",
+        "path": "./http-status-fun-snippets.json"
+      }
+    ]
+  }
+}

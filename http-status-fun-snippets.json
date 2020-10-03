@@ -1,0 +1,13 @@
+{
+  "HTTP Status Cats": {
+    "prefix": "http-status:cats",
+    "body": ["https://http.cat/${0:404}"],
+    "description": "Add HTTP Status cat"
+  },
+
+  "HTTP Status Dogs": {
+    "prefix": "http-status:dogs",
+    "body": ["https://httpstatusdogs.com/img/${0:404}.jpg"],
+    "description": "Add HTTP Status dog"
+  }
+}

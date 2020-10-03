@@ -1,0 +1,25 @@
+# HTTP Status Fun snippets :dog: :cat:
+
+Tired of console logging or just printing out same old boring HTTP status codes on the frontend?
+
+Make HTTP Status codes fun with some cute cats and dogs using these super fun snippets!
+
+These snippets will help you add a status code link from [HTTP.cat](https://http.cat) and [HTTP status dogs](https://httpstatusdogs.com) API.
+
+They are fun and simple to use.
+
+## Add a status code cat :cat:
+
+`http-status:cats`
+
+If you type in a status code 100, you get link to this image from the API
+
+![100 Cat](https://http.cat/100)
+
+## Add a status code cat :dog:
+
+`http-status:dogs`
+
+If you type in a status code 200, you get link to this image from the API
+
+![200 Dog](https://httpstatusdogs.com/img/200.jpg)
