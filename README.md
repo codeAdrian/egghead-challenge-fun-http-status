@@ -12,14 +12,14 @@ They are fun and simple to use.
 
 `http-status:cats`
 
-If you type in a status code 100, you get link to this image from the API
+If you type in a status code 304, you get link to this image from the API
 
-![100 Cat](https://http.cat/100)
+![304 Cat](https://http.cat/304)
 
 ## Add a status code dog :dog:
 
 `http-status:dogs`
 
-If you type in a status code 200, you get link to this image from the API
+If you type in a status code 301, you get link to this image from the API
 
-![200 Dog](https://httpstatusdogs.com/img/200.jpg)
+![301 Dog](https://httpstatusdogs.com/img/301.jpg)
