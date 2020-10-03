@@ -10,7 +10,9 @@ They are fun and simple to use.
 
 ## Add a status code cat :cat:
 
-`http-status:cats`
+prefix: `http-status:cats`
+
+After selecting the snippet, you can type in the HTTP status code (it defaults to 404).
 
 If you type in a status code 304, you get link to this image from the API
 
@@ -19,6 +21,8 @@ If you type in a status code 304, you get link to this image from the API
 ## Add a status code dog :dog:
 
 `http-status:dogs`
+
+After selecting the snippet, you can type in the HTTP status code (it defaults to 404).
 
 If you type in a status code 301, you get link to this image from the API
 
