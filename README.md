@@ -10,7 +10,7 @@ They are fun and simple to use.
 
 ## Add a status code cat :cat:
 
-prefix: `http-status:cats`
+`http-status:cats`
 
 After selecting the snippet, you can type in the HTTP status code (it defaults to 404).
 
